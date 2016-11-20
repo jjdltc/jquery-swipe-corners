@@ -21,3 +21,4 @@ Allow to implement 6 diferent non jQuery native supported swipe events (*up, dow
 
 **There is a big TODO list, but in resume**
 * Write a better documentation (Readme)
+* Include a minified version

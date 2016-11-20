@@ -1,7 +1,7 @@
 {
 	"title"				: "jquery-swipe-corners"
   , "name"				: "jquery-swipe-corners"
-  , "version"			: "0.1.1"
+  , "version"			: "0.1.2"
   , "description"		: "Allow to implement 6 diferent non jQuery native supported swipe events (up, down, topLeft, topRight, bottomLeft, bottomRight)"
   , "homepage"			: "https://github.com/jjdltc/jquery-swipe-corners"
   , "license"			: "MIT"
