@@ -1,3 +1,7 @@
+// if (typeof jQuery === 'undefined') {
+//     throw new Error('jquery-swipe-corners requires jQuery');
+// }
+
 $(function () {
 	// If true allow the corners swipe events, otherwise just allow the four basic points (left, right, up, down)
 	$.event.special.swipe.allowCornerSwipe = true;
@@ -64,4 +68,4 @@ $(function () {
 			}
 		}
 	}
-});
+})

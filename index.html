@@ -1,25 +1,19 @@
 <html>
 	<head>
-		<title>Swipe Plugin</title>
-		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.css" />
-		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-		<script type="text/javascript" src="//code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js"></script>
-		<script type="text/javascript" src="swipeCorners.js"></script>
+		<title>jquery-swipe-corners</title>
+		<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+		<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script type="text/javascript" src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+		<script type="text/javascript" src="swipe-corners.js"></script>
 		<script type="text/javascript">
-//Allow to print in console the event fired
-
 			$(document).on("swipeleft swiperight swipeUp swipeDown swipeTopRight swipeTopLeft swipeBottomRight swipeBottomLeft", function(e){
 				console.log(e.type);
-				// alert(e.type);
 			})
-
 		</script>
 	</head>
 	<body>
-		<div data-role="page">
-			<div data-role="content">
-					<a data-role="none" rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img data-role="none" alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">jqSwipeCornersPlugin</span> by <a data-role="none" xmlns:cc="http://creativecommons.org/ns#" href="jjdltc.blogspot.com" property="cc:attributionName" rel="cc:attributionURL">jjdltc (Joel De La Torriente)</a> is licensed under a <a data-role="none" data-role="none" rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.<br />Based on a work at <a data-role="none" xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/jjdltc/jqSwipeCornersPlugin" rel="dct:source">https://github.com/jjdltc/jqSwipeCornersPlugin</a>	
-			</div>
+		<div data-role="page" style="height:100%;">
+
 		</div>
 	</body>
 </html>

@@ -1,0 +1,35 @@
+{
+	"title"				: "jquery-swipe-corners"
+  , "name"				: "jquery-swipe-corners"
+  , "version"			: "0.1.1"
+  , "description"		: "Allow to implement 6 diferent non jQuery native supported swipe events (up, down, topLeft, topRight, bottomLeft, bottomRight)"
+  , "homepage"			: "https://github.com/jjdltc/jquery-swipe-corners"
+  , "license"			: "MIT"
+  , "keywords"			: [
+		"ecosystem:jquery"
+	  , "jquery"
+	  , "jquery-plugin"
+	  , "swipe"
+	]
+  , "main"				: "swipe-corners.js"
+  , "scripts"			: {
+		"test"			: "echo \"Error: :P no test specified\" && exit 1"
+	}
+  , "author"			: "Joel De La Torriente <jjdltc@gmail.com> (http://jjdltc.com)"
+  , "maintainers"		: [
+		"Joel De La Torriente <jjdltc@gmail.com> (http://jjdltc.com)"
+	]
+  , "contributors"		: [
+		"Joel De La Torriente <jjdltc@gmail.com> (http://jjdltc.com)"
+	]
+  , "bugs"				: {
+		"url"			: "https://github.com/jjdltc/jquery-swipe-corners/issues"
+	}
+  , "repository"		: {
+		"type"			: "git"
+	  , "url"			: "https://github.com/jjdltc/jquery-swipe-corners"
+	}
+  , "scripts"			: {}
+  , "dependencies"		: {}
+  , "devDependencies"	: {}
+}

@@ -1,14 +1,22 @@
-jqSwipeCornersPlugin
-====================
+# jquery-swipe-corners-plugin
 
-Allow to implement 6 diferent non jq native support swipe events 
-* up
-* down
-* topLeft
-* topRight
-* bottomLeft
-* bottomRight
+Allow to implement 6 diferent non jQuery native supported swipe events (*up, down, topLeft, topRight, bottomLeft, bottomRight*)
 
-__Please, Make sure you refer the author if you use its work__
+### Install
+##### Direct
+* [Download](https://github.com/jjdltc/jquery-swipe-corners/archive/master.zip)
+* Refer in HTML ```<script type="text/javascript" src="Path/To/File/swipe-corners.js"></script>```
+##### [Browserify](http://browserify.org/)
+* Install: ```npm install --save jquery-swipe-corners```
+* Module: ```require('jquery-swipe-corners')```
 
+### Events
+* ##### up
+* ##### down
+* ##### topLeft
+* ##### topRight
+* ##### bottomLeft
+* ##### bottomRight
 
+**There is a big TODO list, but in resume**
+* Write a better documentation (Readme)
