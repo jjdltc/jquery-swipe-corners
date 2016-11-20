@@ -12,12 +12,12 @@ Allow to implement 6 diferent non jQuery native supported swipe events (*up, dow
 * Module: ```require('jquery-swipe-corners')```
 
 ### Events
-*  ##### up
-*  ##### down
-*  ##### topLeft
-*  ##### topRight
-*  ##### bottomLeft
-*  ##### bottomRight
+*  up
+*  down
+*  topLeft
+*  topRight
+*  bottomLeft
+*  bottomRight
 
 **There is a big TODO list, but in resume**
 * Write a better documentation (Readme)
